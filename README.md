@@ -19,7 +19,7 @@ Follow below the goals for this module:
 
 ## Results
 
-## Objetive 1: Filter UFO sightings on multiple criteria
+## Objective 1: Filter UFO sightings on multiple criteria
 
 ### The list element that creates the button is removed, and there are five list elements for filtering in the index.html file
 
@@ -42,7 +42,7 @@ Follow below the goals for this module:
 
 ![](https://github.com/DougUOT/UFOs/blob/main/Resources/Images/Capture_UFO_1_5.PNG)
 
-## A written report on the UFO analysis
+## Objective 2: A written report on the UFO analysis
 
 See below the UFO Sightings website, allowing the user to search for different types of field, with the result being displayed in the table in an organized way.
 
@@ -59,9 +59,10 @@ In addition to being able to filter for more accurate results, we added a field 
 
 ## Summary
 
-As a final result, we have a webpage connecting to the database with UFO sighting information, and displaying it in an orderly table by date, city, state, country, shape, duration and comments. In addition, we have added additional features to filter or clear table results.
+As a final result, we have a webpage connecting to the database with UFO sighting information and displaying it in an orderly table by date, city, state, country, shape, duration and comments. In addition, we have added additional features to filter or precise table results.
 
-In the future, as a recommendation to improve this project, new features may be added suc as a search field. 
+In the future, as a recommendation to improve this project, new features may be added, such as a search field.
+ 
 
 
 
